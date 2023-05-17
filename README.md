@@ -4,11 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Anurag..&hearts;++;Self-taught+Flutter+Developer,;Computer+Science+Student,;<3"></a>
 </h1>
 
-<p align="center" width="150px">A passionate coder and programmer. <br> </p>
+<p align="center" width="150px">A Flutter developer and CP Guy. <br> </p>
 
 <br>
 <br>
-
+<!--
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-adm&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=8"></div>
 
 <br>
@@ -16,6 +16,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anurag-88&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&border_radius=8"></div>
 
 <br>
+-->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-adm&theme=dracula&border_radius=8"></div>
 
