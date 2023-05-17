@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/85285176/221434375-cb5ebb63-acae-4bca-9543-d7e93020f862.png" width="50%"></p>
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Anurag..&hearts;++;Self-taught+Flutter+Developer,;Computer+Science+Student,;<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Anurag+Mishra..&hearts;++;Self-taught+Flutter+Developer,;Computer+Science+Student,;<3"></a>
 </h1>
 
 <p align="center" width="150px">A Flutter developer and CP Guy. <br> </p>
