@@ -8,15 +8,7 @@
 
 <br>
 <br>
-<!--
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-adm&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=8"></div>
 
-<br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anurag-88&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&border_radius=8"></div>
-
-<br>
--->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-adm&theme=dracula&border_radius=8"></div>
 
