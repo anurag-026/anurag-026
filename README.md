@@ -10,7 +10,7 @@
 <br>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-ad&theme=dracula&border_radius=8"></div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-adm&theme=dracula&border_radius=8"></div>
 
 <br>
 
