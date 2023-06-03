@@ -9,17 +9,17 @@
 <br>
 <br>
 
-<!-- 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-adm&theme=dracula&border_radius=8"></div>
--->
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-adm&include_all_commits=true&count_private=true&theme=dracula&border_radius=8"></div>
+
 <br>
 
 <!--Github Stats 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-adm&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 -->
-<!--Github Stats -->
+<!--Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anurag-adm&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
-
+ -->
 
 
 ### 🛠 &nbsp;Tech Stack
