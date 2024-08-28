@@ -21,7 +21,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anurag-adm&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
  -->
 
+<div align="center">
+  <h3>Profile Views</h3>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{Priyanshu282003}/count.svg)
 
+  
+</div>
+<div align="center">
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
