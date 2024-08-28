@@ -1,10 +1,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/85285176/221434375-cb5ebb63-acae-4bca-9543-d7e93020f862.png" width="50%"></p>
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Anurag+Mishra..&hearts;++;Flutter+Developer,;Computer+Science+Student.;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Anurag+Mishra...;++;Flutter+Developer,;Computer+Science+Student.;"></a>
 </h1>
 
-<p align="center" width="150px">A Flutter developer and CP Guy. <br> </p>
+<!--p align="center" width="150px">A Flutter developer and CP Guy. <br> </p>
 
 <br>
 <br>
@@ -32,6 +32,25 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=anurag-026&style=flat-square&color=22CCB2">
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-026&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 
 <br>
 
