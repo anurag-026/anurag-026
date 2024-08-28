@@ -10,7 +10,7 @@
 <br>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-026&include_all_commits=true&count_private=true&count_public=true&theme=dracula&border_radius=9"></div>
+<!-- div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag-026&include_all_commits=true&count_private=true&count_public=true&theme=dracula&border_radius=9"></div>
 
 <br>
 
@@ -33,6 +33,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-
 <br>
+
+| ![Shrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag-026&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anurag-026&include_all_commits=true&count_private=true&count_public=true&theme=radical) |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-026&langs_count=8&theme=radical&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag-026&theme=2077) |
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
